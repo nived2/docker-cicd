@@ -66,6 +66,8 @@ docker-cicd/
 
 ## Quick Start
 
+For detailed setup instructions, please refer to our [Setup Guide](docs/SETUP.md).
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/nived2/docker-cicd.git
